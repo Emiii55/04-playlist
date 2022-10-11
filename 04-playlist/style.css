@@ -1,3 +1,102 @@
 h1 {
-   color:blueviolet
-} 
+   color: #DAB88B;
+   text-align: center;
+   font-size: 3em;
+}
+
+header {
+   background-color: #1b1a178e;
+}
+
+body {
+   background-image: url('/imagenes/wallpaperflare.com_wallpaper.jpg');
+}
+
+table {
+   border-collapse: collapse;
+   text-align: center;
+   width: 100%;
+   background-color: #e7dec8f5;
+   border: 2.5px solid #000000;
+   color: #1E212D;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+
+td {
+   text-align: center;
+   font-size: 1.3em;
+   border: 2.5px solid #000000;
+   border-collapse: collapse;
+}
+
+th {
+   text-align: center;
+   font-size: 1.8em;
+   border: 2.5px solid #000000;
+   border-collapse: collapse;
+   background-color: #C5A880;
+   color: #F9E090; 
+}
+
+main {
+   text-align: center;
+}
+
+a {
+color: #1E212D;
+}
+
+footer {
+   text-align: center;
+   color: rgb(250, 250, 250);
+   font-size: 1.5em;   
+}
+
+
+
+main p {
+   font-size: 1.2em;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.tittle {
+   text-align: center;
+   color: antiquewhite;
+}
+
+#californiadreamin{
+   background: #3F4E4F;
+}
+
+#elcuco{
+   background: #B1B2FF;
+}
+
+#guns {
+   background: #3E2C41;
+}
+
+#creep {
+   background: #F5B17B;
+}
+
+#frijito {
+   background: #781D42;
+}
+
+#duki {
+   background: #6E7582;
+}
+
+#lego {
+   background: #87805E;
+}
+
+#ivan {
+   background: #EDFEAD;
+}
+
+#kevin {
+   background: #C0D8C0;
+}
